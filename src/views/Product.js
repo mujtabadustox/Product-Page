@@ -125,7 +125,7 @@ const Product = () => {
                   </Box>
                   <Box mb="10px">
                     <HStack>
-                      <Text fontSize="2xl" as="b" maxW="70px" minW="70px">
+                      <Text fontSize="2xl" as="b" maxW="85px" minW="85px">
                         {" "}
                         $ {data?.price * quantity}
                       </Text>
